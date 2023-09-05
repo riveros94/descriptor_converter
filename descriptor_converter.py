@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep  4 13:58:01 2023
-
-@author: rocio
-"""
 
 ####################################################
 #### Script to convert sequences to descriptors ####
